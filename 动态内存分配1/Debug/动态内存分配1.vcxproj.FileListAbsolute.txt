@@ -1,0 +1,2 @@
+C:\Users\86151\Desktop\C\动态内存分配1\Debug\动态内存分配1.exe
+C:\Users\86151\Desktop\C\动态内存分配1\Debug\动态内存分配1.pdb
